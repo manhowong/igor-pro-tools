@@ -30,4 +30,4 @@ For more info, see [here](getTransients/README.md).
 
 # Cite as
 
-Wong, M. H. (2022). Igor Pro Tools for Electrophysiological Data (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7278355
+Wong, M. H. (2022). Igor Pro Tools for Electrophysiological Data (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7278468

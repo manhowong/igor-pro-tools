@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/508459099.svg)](https://zenodo.org/badge/latestdoi/508459099)
+
 # Igor Pro Tools for Electrophysiological Data
 
 This repository contains tools for off-line processing of electrophysiological data acquired with Igor Pro.

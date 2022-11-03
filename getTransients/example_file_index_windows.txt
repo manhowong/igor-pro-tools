@@ -1,0 +1,4 @@
+name,pxpPath,firstSweep,lastSweep
+MW211210_01,C:\\Man Ho\\Expt\\ELS project\\MW211210_01.pxp,0,11
+MW211210_02,C:\\Man Ho\\Expt\\ELS project\\MW211210_02.pxp,0,13
+MW211211_01,C:\\Man Ho\\Expt\\ELS project\\MW211211_01.pxp,0,15

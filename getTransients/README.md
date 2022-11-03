@@ -22,7 +22,7 @@ This procedure was tested with Igor Pro 6.2.2.2 in Windows. Text files created o
 
     (firstSweep and lastSweep specify the range of sweeps from where the transients will be extracted)
 
-    See help_fileIndex.txt for for more info.
+    See [help_fileIndex.md](help_fileIndex.md) for for more info.
 
 ## Output
 

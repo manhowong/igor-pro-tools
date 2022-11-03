@@ -12,15 +12,15 @@ This procedure was tested with Igor Pro 6.2.2.2 in Windows. Text files created o
 
 - recording files in .pxp format
 - file index: a .txt file containing the following 4 columns with the same column names and contents:
-- name (recording name/ID, without file extension name!)
-- pxpPath (FULL path of recording file in pxp format)
+    - name (recording name/ID, without file extension name!)
+    - pxpPath (FULL path of recording file in pxp format)
 
-    For Windows: escape backslash in the path (i.e. replace every " \ " with two " \ ")
+        For Windows: escape backslash in the path (i.e. replace every " \ " with two " \ ")
 
-- firstSweep (integer number)
-- lastSweep (integer number)
+    - firstSweep (integer number)
+    - lastSweep (integer number)
 
-    (firstSweep and lastSweep specify the range of sweeps from where the transients will be extracted)
+        (firstSweep and lastSweep specify the range of sweeps from where the transients will be extracted)
 
     See [help_fileIndex.md](help_fileIndex.md) for for more info.
 

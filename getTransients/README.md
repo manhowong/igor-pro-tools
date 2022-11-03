@@ -15,7 +15,7 @@ This procedure was tested with Igor Pro 6.2.2.2 in Windows. Text files created o
 - name (recording name/ID, without file extension name!)
 - pxpPath (FULL path of recording file in pxp format)
 
-    For Windows: escape backslash in the path (i.e. replace \ with \\)
+    For Windows: escape backslash in the path (i.e. replace every " \ " with two " \ ")
 
 - firstSweep (integer number)
 - lastSweep (integer number)
